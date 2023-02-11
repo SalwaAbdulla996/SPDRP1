@@ -1,5 +1,5 @@
 # Revealing Speakers Personas from Conversational Dialogues using NLP 
-This repository contains the source code and the dataset for Revealing Speakers Personas from Conversational Dialogues using NLP paper which is a reproduction of the SPD task based on the the _EMNLP 2021_ paper [Detecting Speaker Personas from Conversational Texts](https://aclanthology.org/2021.emnlp-main.86.pdf). Jia-Chen Gu, Zhen-Hua Ling, Yu Wu, Quan Liu, Zhigang Chen, Xiaodan Zhu. <br>
+This repository contains the source code and the dataset for Revealing Speakers Personas from Conversational Dialogues using NLP paper by Salwa Abdulla From British University in Dubai which is a reproduction of the SPD task based on the the _EMNLP 2021_ paper [Detecting Speaker Personas from Conversational Texts](https://aclanthology.org/2021.emnlp-main.86.pdf). Jia-Chen Gu, Zhen-Hua Ling, Yu Wu, Quan Liu, Zhigang Chen, Xiaodan Zhu. <br>
 
 
 # This task is about reproducing the resutls of the reaserach paper Detecting Speaker Personas from Coversational Text
